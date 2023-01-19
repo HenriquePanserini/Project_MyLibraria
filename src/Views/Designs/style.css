@@ -86,10 +86,9 @@ main{
 }
 
 #sc2{
-    display: block;
+    display: flex;
+    flex-direction: row;
 }
-
-
 
 sub{
     font-size: 22px;
